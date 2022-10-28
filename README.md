@@ -1,3 +1,5 @@
+**Complex and Social Networks - Lab01**
+
 The purpose of the first exercise is to reproduce a given plot and illustrate the clustering coefficient and average shortest path length as a function of the parameter $p$ of the Watts-Strogatz model. The clustering coefficient and the average shortest path values are adjusted to be within the range 0 to 1 to include both values in one figure.
 In our model, a logarithmic sequence of length 14 was used to generate $p$ values, which ranged from $0.0001$ to 1 . (Rewiring probability)
 - $L(p)$ is a global attribute that calculates the separation between two vertices.
